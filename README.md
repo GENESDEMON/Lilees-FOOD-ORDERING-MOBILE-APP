@@ -1,2 +1,3 @@
 # Lilees-FOOD-ORDERING-MOBILE-APP
-A simple food ordering system built with flutter. 
+This is a simple food ordering app built with flutter.
+
